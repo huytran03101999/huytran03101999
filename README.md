@@ -20,9 +20,9 @@
 
   - **Mobile & Frontend Engineer** with 5+ years across cross-platform and native apps
   - At **B3networks**: white-label iOS / macOS / Android communication apps for
-  enterprise clients (Singtel, AIS, ViewQuest)
+  enterprise clients
   - VoIP calling on **PJSIP / SIP** — signaling, call handling, media sessions —
-  on apps handling **3,000+ calls/day**
+  in production at scale
   - Also built real-time **chat**, a **support-ticket center**, and internal web tools
   - Frontend background in **React / Next.js / Angular**; comfortable across
   **mobile**, **frontend**, and open to **full-stack / backend**
