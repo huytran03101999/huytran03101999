@@ -56,15 +56,11 @@
 
   ## 📊 GitHub Stats
 
- <div align="center">
+  <div align="center">
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=huytran03101999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/huytran03101999)
+  ![Metrics](https://raw.githubusercontent.com/huytran03101999/huytran03101999/main/github-metrics.svg)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=huytran03101999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huytran03101999&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+  </div>
 
   ---
 
