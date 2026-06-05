@@ -10,7 +10,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-Huy%20Tran-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giahuy.tran.735507/)
   [![Twitter](https://img.shields.io/badge/Twitter-@kakahuy113-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kakahuy113)
 
-  ![](https://komarev.com/ghpvc/?username=trangiahuy031099&style=flat-square&color=blue)
+  ![](https://komarev.com/ghpvc/?username=huytran03101999&style=flat-square&color=blue)
 
   </div>
 
@@ -56,7 +56,7 @@
 
   ## 📊 GitHub Stats
 
-  <div align="center">
+ <div align="center">
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=huytran03101999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/huytran03101999)
 
@@ -64,7 +64,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huytran03101999&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  </div>
+</div>
 
   ---
 
