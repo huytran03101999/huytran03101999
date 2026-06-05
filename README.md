@@ -2,11 +2,11 @@
 
   # Hi, I'm Huy Tran 👋
 
-  ### Mobile Software Engineer from Vietnam
-  Building performant and user-focused mobile applications with **Flutter** and
-  **Swift**.
+  ### Mobile & Frontend Engineer from Vietnam
+  Building performant, user-focused apps with **Flutter** and **Swift**, with deep
+  **VoIP / real-time** work on **PJSIP / SIP**.
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huy%20Tran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-huy-613438181/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huy%20Tran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-tran-613438181/)
   [![Facebook](https://img.shields.io/badge/Facebook-Huy%20Tran-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giahuy.tran.735507/)
   [![Twitter](https://img.shields.io/badge/Twitter-@kakahuy113-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kakahuy113)
 
@@ -18,11 +18,14 @@
 
   ## 👨‍ About Me
 
-  - Mobile Software Engineer specializing in **Flutter** and **Swift**
-  - Building cross-platform and native mobile apps with a focus on **performance**,
-  **clean architecture**, and **great user experience**
-  - Comfortable across **mobile**, **frontend**, and **backend**
-  - Interested in **Fintech**, product engineering, and scalable app development
+  - **Mobile & Frontend Engineer** with 5+ years across cross-platform and native apps
+  - At **B3networks**: white-label iOS / macOS / Android communication apps for
+  enterprise clients (Singtel, AIS, ViewQuest)
+  - VoIP calling on **PJSIP / SIP** — signaling, call handling, media sessions —
+  on apps handling **3,000+ calls/day**
+  - Also built real-time **chat**, a **support-ticket center**, and internal web tools
+  - Frontend background in **React / Next.js / Angular**; comfortable across
+  **mobile**, **frontend**, and open to **full-stack / backend**
 
   ---
 
@@ -32,14 +35,14 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="iOS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="iOS / macOS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-  title="GraphQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
 
   </div>
@@ -48,9 +51,9 @@
 
   ## 🚀 Current Focus
 
-  - Building high-quality mobile apps with **Flutter** and **Swift**
-  - Improving mobile app architecture, performance, and maintainability
-  - Exploring better product experiences for cross-platform and native applications
+  - Reliable, high-performance VoIP and real-time communication on mobile + desktop
+  - Cross-platform delivery in Flutter, dropping to native Swift / SwiftUI when needed
+  - Clean architecture, performance, and maintainability across mobile and web
 
   ---
 
@@ -66,6 +69,6 @@
 
   ## 📫 Connect with Me
 
-  - LinkedIn: [Huy Tran](https://www.linkedin.com/in/tr%E1%BA%A7n-huy-613438181/)
+  - LinkedIn: [Huy Tran](https://www.linkedin.com/in/andrew-tran-613438181/)
   - Facebook: [giahuy.tran.735507](https://www.facebook.com/giahuy.tran.735507/)
   - Twitter: [@kakahuy113](https://twitter.com/kakahuy113)
